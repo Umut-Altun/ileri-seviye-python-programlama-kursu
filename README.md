@@ -90,11 +90,6 @@ Bu kurs için aşağıdaki adımları takip edebilirsiniz:
 
 ---
 
-## 🌟 Katkıda Bulun
-Bu projeye katkıda bulunmak isterseniz:
-- Hata raporu veya yeni öneriler için **Issues** bölümünü kullanabilirsiniz.
-- Yeni özellikler eklemek veya mevcut kodu iyileştirmek için **Pull Request** gönderebilirsiniz.
-
 Her türlü geri bildiriminiz bizim için çok değerlidir! 🚀
 
 ---
