@@ -79,7 +79,7 @@ Bu kurs için aşağıdaki adımları takip edebilirsiniz:
 
 2. **Gerekli Bağımlılıkları Kurun:**
    ```bash
-   pip install -r requirements.txt
+   pip install python
    ```
 
 3. **Ders Dizinine Girin ve Python Dosyalarını Çalıştırın:**
