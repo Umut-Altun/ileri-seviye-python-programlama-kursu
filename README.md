@@ -1,4 +1,4 @@
-# 💻 İleri Seviye Python Kursu 1.0
+# 💻 İleri Seviye Python Kursu 
 
 ## 🔍 Tanıtım
 Bu GitHub deposu, **İleri Seviye Python Kursu** için hazırlanmış kapsamılı bir kaynak sunmaktadır. Python'un ileri seviye konularını derinlemesine öğrenmek isteyenler için **List Comprehension, Lambda Fonksiyonlar, Nesne Yönelimli Programlama, Generators, Decorators, Regular Expressions, JSON ve CSV** gibi konuları detaylı olarak ele almaktayız.
