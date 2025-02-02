@@ -96,9 +96,9 @@ Her türlü geri bildiriminiz bizim için çok değerlidir! 🚀
 
 ## 🎥 Sosyal Medya ve Bağlantılar
 Bu kursa dair daha fazla bilgiye ve ek kaynaklara aşağıdaki bağlantılardan ulaşabilirsiniz:
-- YouTube: [Yapay Rehber](https://www.youtube.com/yapayrehber)
-- Linked: [@kullanici_adi](https://www.linkedin.com/in/umut-altun-bb4918284)
-- GitHub: [Kullanıcı Adı](https://github.com/Umut-Altun)
+- YouTube: [Yapay Rehber](https://www.youtube.com/@yapayrehber)
+- Linked: [Umut Altun](https://www.linkedin.com/in/umut-altun-bb4918284)
+- GitHub: [Umut Altun](https://github.com/Umut-Altun)
 
 Python maceranızda başarılar dileriz! ✨
 
