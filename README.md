@@ -94,11 +94,6 @@ Her türlü geri bildiriminiz bizim için çok değerlidir! 🚀
 
 ---
 
-## 📚 Lisans
-Bu proje **MIT Lisansı** altında sunulmuştur. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
-
----
-
 ## 🎥 Sosyal Medya ve Bağlantılar
 Bu kursa dair daha fazla bilgiye ve ek kaynaklara aşağıdaki bağlantılardan ulaşabilirsiniz:
 - YouTube: [Yapay Rehber](https://www.youtube.com/yapayrehber)
