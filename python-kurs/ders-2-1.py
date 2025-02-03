@@ -1,6 +1,15 @@
 # 2️⃣.1️⃣ List Comprehension İçinde if Kullanımı
 # List Comprehension içinde if kullanarak filtreleme yapabiliriz.
 
+# ⛔ Yanlış Kullanım (else yanlış yerde)	[sayi for sayi in sayilar if sayi % 2 == 0 else "tek"]   ❌Bu hata verir çünkü:
+# if yalnızca bir filtreleme işlemi yapar, ama else eklenince bir dönüş değeri gerektirir.
+# if ve else içeren bir ifadede, dönüş değeri başta belirtilmelidir.
+
+# Özet Kullanım	Yazım Şekli
+# Sadece if	          [sayi for sayi in sayilar if sayi % 2 == 0] ✅
+# if-else Kullanımı	  [sayi if sayi % 2 == 0 else "tek" for sayi in sayilar] ✅
+# Yanlış Kullanım   	[sayi for sayi in sayilar if sayi % 2 == 0 else "tek"] ❌
+
 # ---------------------------------- LIST COMPREHENSION İÇİNDE if-else KULLANIMI ------------------------------------- #
 # for item in liste:
 #     if (kossul):
